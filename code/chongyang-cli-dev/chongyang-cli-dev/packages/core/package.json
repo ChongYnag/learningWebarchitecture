@@ -1,6 +1,6 @@
 {
   "name": "@chongyang-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "jiangchongyang <chongyang.jiang@cyclone-robotics.com>",
   "homepage": "https://github.com/ChongYnag/learningWebarchitecture#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/ChongYnag/learningWebarchitecture/issues"
   },
   "dependencies": {
-    "@chongyang-dev/utils": "1.0.0"
+    "@chongyang-dev/utils": "1.0.3"
   }
 }
