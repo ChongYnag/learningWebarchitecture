@@ -1,0 +1,29 @@
+{
+  "name": "@chongyang-cli-dev/core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "jiangchongyang <chongyang.jiang@cyclone-robotics.com>",
+  "homepage": "https://github.com/ChongYnag/learningWebarchitecture#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChongYnag/learningWebarchitecture.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ChongYnag/learningWebarchitecture/issues"
+  },
+  "dependencies": {
+    "@chongyang-dev/utils": "1.0.0"
+  }
+}
